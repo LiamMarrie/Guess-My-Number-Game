@@ -1,7 +1,6 @@
 'use strict';
 
 const rndNum = Math.floor(Math.random() * 20 + 1);// Random number from 1-20 
-console.log(rndNum);
 let score = 20;
 let highScore = 0;
 
